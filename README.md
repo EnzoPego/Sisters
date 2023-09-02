@@ -1,4 +1,4 @@
 # React + Vite
 
-npm install
-npm install bootstrap
+- npm install
+- npm install bootstrap
